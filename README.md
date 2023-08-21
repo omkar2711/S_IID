@@ -1,4 +1,4 @@
-
+![](https://github.com/omkar2711/S_IID/assets/75433632/223f09e5-ddea-4782-85ab-26e0527eae14)
 <body>
     <h1>Smart Ignition Interlock Device (Smart IID)</h1>
     <p>Alcohol-impaired driving remains a significant public health concern, leading to numerous accidents, injuries, and fatalities on the roads. Traditional ignition interlock devices (IIDs) have been used to deter repeat DUI offenders, but their effectiveness can be limited due to a lack of advanced features and functionalities.</p>
@@ -30,9 +30,6 @@
     <h2>Usage</h2>
     <p>To use the Smart IID, follow the instructions provided in the <a href="user-manual.md">User Manual</a>.</p>
     <hr>
-   
-
     <p><em>Note: The endmost objective of the Smart IID is to improve road safety efficiently by preventing or altogether terminating alcohol-hindered drunk driving incidents.</em></p>
     <p><strong>Keywords:</strong> Smart IID, alcohol-impaired driving, IoT, user accountability, real-time monitoring, road safety</p>
 </body>
- ![image](https://github.com/omkar2711/S_IID/assets/75433632/223f09e5-ddea-4782-85ab-26e0527eae14)
