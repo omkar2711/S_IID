@@ -28,7 +28,7 @@
         <li><strong>Data Analysis:</strong> All data collected by the Smart IID is stored and can be analyzed to identify patterns of behavior related to alcohol-impaired driving.</li>
     </ol>
     <h2>Usage</h2>
-    <p>To use the Smart IID, follow the instructions provided in the <a href="user-manual.md">User Manual</a>.</p>
+    <p>To use the Smart IID, follow the instructions provided in the <a href="https://github.com/omkar2711/S_IID/blob/main/btp.docx">User Manual</a>.</p>
     <hr>
     <p><em>Note: The endmost objective of the Smart IID is to improve road safety efficiently by preventing or altogether terminating alcohol-hindered drunk driving incidents.</em></p>
     <p><strong>Keywords:</strong> Smart IID, alcohol-impaired driving, IoT, user accountability, real-time monitoring, road safety</p>
